@@ -1,5 +1,6 @@
 <h1> SEIC-IoT-Proj </h1>
-<p> This project was solely developed by myself, with components I had on the shelf. The model of the project, the main system and subsystems was my own call/choice.</p>
+<p> This project was solely developed by myself, with components I had on the shelf. The model of the project, the main system and subsystems was my own call/choice. I have translated the C++ code presented in proj-code folder. All the images that I provide will appear in text in portuguese.</p>
+
 <h2> Description: </h2>
 <p> Developed for the class Electronic Systems for the Internet of Things. <br> <br>
     The objective of this project was to create a functioning system with multiple devices that communicated with each order in a typical IoT environment. </p>
@@ -65,3 +66,18 @@
       </li>  
     </ul>
 </ul>
+
+<h2> Grafana screenshots </h2>
+<p> Below I present some of the grafana screenshots that I provided in my class report. </p>
+<h3 align="center"> Grafana screenshot #1  </h3>
+ <p align="center"> 
+   <img height="400" src="https://github.com/saulcarvalho/SEIC-IoT-Proj/blob/main/assets/images/grafana_print_1.png" alt="Grafana print 1"/>
+ </p>
+ <h3 align="center"> Grafana screenshot #2  </h3>
+ <p align="center"> 
+   <img height="300" src="https://github.com/saulcarvalho/SEIC-IoT-Proj/blob/main/assets/images/grafana_print_2.png" alt="Grafana print 2"/>
+ </p>
+ <h3 align="center"> Grafana screenshot #3  </h3>
+ <p align="center"> 
+   <img height="400" src="https://github.com/saulcarvalho/SEIC-IoT-Proj/blob/main/assets/images/grafana_print_3.png" alt="Grafana print 3"/>
+ </p>
