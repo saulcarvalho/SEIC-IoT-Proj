@@ -35,14 +35,14 @@
     <ul>
       <li> <p> Heating Subsystem, based on a Lolin NodeMCU V3 with a sensor shield. </p> 
       <p align="center"> 
-        <img width="380" src="https://github.com/saulcarvalho/SEIC-IoT-Proj/blob/main/assets/images/heat_subsys_1.png" alt="Heat Subsys 1"/>
+        <img width="382" src="https://github.com/saulcarvalho/SEIC-IoT-Proj/blob/main/assets/images/heat_subsys_1.png" alt="Heat Subsys 1"/>
         <img width="300" src="https://github.com/saulcarvalho/SEIC-IoT-Proj/blob/main/assets/images/heat_subsys_2.png" alt="Heat Subsys 2"/>
       </p>
       </li>  
       <li> <p> Ventilation Subsystem, based on a WeMos LOLIN32 Lite (ESP32). </p> 
       <p align="center"> 
-        <img width="500" src="https://github.com/saulcarvalho/SEIC-IoT-Proj/blob/main/assets/images/venti_subsys_1.png" alt="Venti Subsys 1"/>
-        <img width="500" src="https://github.com/saulcarvalho/SEIC-IoT-Proj/blob/main/assets/images/venti_subsys_1.png" alt="Venti Subsys 2"/>
+        <img width="371" src="https://github.com/saulcarvalho/SEIC-IoT-Proj/blob/main/assets/images/venti_subsys_1.png" alt="Venti Subsys 1"/>
+        <img width="300" src="https://github.com/saulcarvalho/SEIC-IoT-Proj/blob/main/assets/images/venti_subsys_2.png" alt="Venti Subsys 2"/>
       </p>
       </li>  
     </ul>
