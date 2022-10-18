@@ -9,9 +9,13 @@
     The main system is composed of a Raspberry Pi 4 with 4 servers with different purposes. 
   </li> 
   <li>
-    The heating subsystem is composed of a temperature sensor (DS18B20) and a 1 kW resistor (100 Ω) controlled by an ESP32 connected to a SSR.
+    The heating subsystem is composed of a digital temperature sensor (DS18B20) and a 1 kW resistor (100 Ω) controlled by an ESP32 connected to a SSR.
     Low voltage is on the microcontroller side (3.3 VDC), optically isolated from the 'high voltage' side (230 VAC), which is the voltage applied to the resistor.
     A circuit breaker was also used on the AC side for extra protection of the load.
+  </li> 
+  <li>
+    The ventilation subsystem is composed of an analog temperature sensor (LM35), a digital environmental sensor based on a BME680 IC, a 230 VAC fan controlled by an 
+    ESP8266, also connected to a SSR. Low voltage is on the microcontroller side (3.3 VDC), optically isolated from the 'high voltage' side (230 VAC), which is the         voltage applied to the fan. A circuit breaker was also used on the AC side for extra protection of the load and a snubber circuit for the SSR high side protection     against high reverse voltage provoked by the fan's coils.
   </li> 
 </ul> 
 
@@ -29,7 +33,7 @@
     </ul>
     <li> <p> Two subsystems: </p> </li> 
     <ul>
-      <li> <p> Heating Subsystem, based on a ESP8266 with a sensor shield. </li>  
+      <li> <p> Heating Subsystem, based on a Lolin NodeMCU V3 with a sensor shield. </li>  
       <li> <p> Ventilation Subsystem, based on a WeMos LOLIN32 Lite (ESP32). </p> </li>  
     </ul>
 </ul>
