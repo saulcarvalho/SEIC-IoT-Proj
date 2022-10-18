@@ -1,6 +1,7 @@
 <h1> SEIC-IoT-Proj </h1>
+<p> This project was solely developed by myself, with components I had on the shelf. The model of the project main system and subsystems was my own call/choice.</p>
 <h2> Description: </h2>
-<p> Developed for the class Electronic Systems for the Internet of Things. <br>
+<p> Developed for the class Electronic Systems for the Internet of Things. <br> <br>
     The objective of this project was to create a functioning system with multiple devices that communicated with each order in a typical IoT environment. </p>
 
 <p> Basically, the project is comprised of 1 main system and 2 subsystems, heating and ventilation: </p>
