@@ -1,6 +1,8 @@
 <h1> SEIC-IoT-Proj </h1>
 <p align="justify"> <b><i>DISCLAIMER:</i></b> This project was solely developed by myself, for the class Electronic Systems for the Internet of Things, with components I had on the shelf. The model of the project, the main processing system and subsystems was my own call/choice. I have translated the C++ code presented in proj-code folder. All the images that I provide will appear in text in portuguese. Some items may appear partially finished.</p>
 
+<p align="justify"> With the code I provide, you won't be able to single-handedly replicate the project, but it is a great help for similar projects. </p>
+
 <h2> Description: </h2>
 <p align="justify"> The objective of this project was to create a functioning system with multiple devices that communicated with each order in a typical IoT environment. Basically, the project is comprised of 1 main processing system and 2 subsystems, heating and ventilation: </p>
 <ul>
